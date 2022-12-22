@@ -1,0 +1,34 @@
+.task {
+  padding: 10px 20px;
+  margin-bottom: 8px;
+  background-color: rgba(245, 245, 245, 0.4);
+  border-radius: 8px;
+  box-shadow: 4px 4px 4px rgba(158, 158, 158, 0.17);
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task-title{
+  font-weight: bolder;
+  // font-size: 1.2em;
+  color: #3a3836;
+
+  margin-bottom: 8px;
+}
+
+.task-subtitle{
+  color: #878684;
+  font-size: 0.8em;
+}
+
+fa-icon {
+  color: #c06767;
+  cursor: pointer;
+  transition: all .3s ease;
+
+  &:hover{
+    color: #e03c3c;
+  }
+}

@@ -1,0 +1,7 @@
+<div class="task">
+  <div class="task__content">
+    <h3 class="task-title">{{ task.text }}</h3>
+    <h5 class="task-subtitle">{{ task.date }}</h5>
+  </div>
+  <fa-icon (click)="onDelete(task)" [icon]="faTrash"></fa-icon>
+</div>

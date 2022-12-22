@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Wash a cat",
+      "date": "15 December 2022"
+    },
+    {
+      "id": 2,
+      "text": "Find a new cat",
+      "date": "18 December 2022"
+    },
+    {
+      "id": 3,
+      "text": "Buy a book about cats",
+      "date": "23 December 2022"
+    },
+    {
+      "id": 4,
+      "text": "Find a new dress",
+      "date": "23 December 2022"
+    },
+    {
+      "text": "Buy new house",
+      "date": "22 December 2023",
+      "id": 5
+    },
+    {
+      "text": "Do something awesome",
+      "date": "31 December 2022",
+      "id": 7
+    },
+    {
+      "text": "Buy a new dress for party",
+      "date": "26 December 2022",
+      "id": 8
+    }
+  ]
+}
