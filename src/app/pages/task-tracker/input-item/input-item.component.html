@@ -1,11 +1,11 @@
 <form class="task__input" (ngSubmit)="onSubmit()">
   <div class="form-control">
     <label for="text">Task</label>
-    <input type="text" name="text" id="text" [(ngModel)]="text" placeholder="Write task..."/>
+    <input type="text" name="text" id="text" [(ngModel)]="text" placeholder="Write task..." autocomplete="off"/>
   </div>
   <div class="form-control">
     <label for="day">Date</label>
-    <input type="text" name="day" id="day" [(ngModel)]="day" placeholder="Write date..."/>
+    <input type="text" name="day" id="day" [(ngModel)]="day" placeholder="Write date..." autocomplete="off"/>
   </div>
   <input class="btn btn-add" type="submit" value="Add Task">
 </form>

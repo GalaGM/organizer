@@ -1,0 +1,27 @@
+.header__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 0;
+  margin-bottom: 20px;
+}
+.header__items {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  color: #444343;
+  text-transform: uppercase;
+  font-weight: lighter;
+}
+
+.header__item{
+  padding: 10px 15px;
+  border-bottom: 2px solid transparent;
+  transition: all .3s ease-in;
+  cursor: pointer;
+
+  &:hover{
+    color: #181414;
+    border-bottom: 2px solid #587858;
+  }
+}
