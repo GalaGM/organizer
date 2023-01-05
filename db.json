@@ -35,5 +35,21 @@
       "date": "26 December 2022",
       "id": 8
     }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "date": "15 JAN 2023",
+      "title": "Architecto eligendi, omnis praesentium",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto eligendi, omnis praesentium distinctio in quo atque provident eaque ab labore dolorum temporibus, perferendis minima expedita quibusdam quis aperiam culpa molestiae voluptas vero odio? Quam placeat magni ullam sint, iste eos porro ad corporis perspiciatis omnis reprehenderit optio, accusamus, ipsum delectus.",
+      "author": "Sam Smith"
+    },
+    {
+      "id": 2,
+      "date": "09 JAN 2023",
+      "title": "accusamus, ipsum delectus",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum nihil sit quibusdam laudantium pariatur repellendus corrupti odio voluptatibus facere cumque fugit dolorem labore voluptatum dolor alias est sint quis, tempore neque officia ipsa totam repellat autem. Fuga, saepe fugiat dolorum culpa distinctio enim unde ratione reiciendis natus laborum? Molestias, fugit perferendis exercitationem iste id ipsa nam consectetur vel dolore quae voluptates quasi beatae earum officia quia asperiores, excepturi deleniti qui quod quisquam itaque inventore ea fuga sapiente. Voluptatem, unde quod.",
+      "author": "Paul Tramp"
+    }
   ]
 }
